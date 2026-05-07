@@ -2,7 +2,7 @@
 
 A modern desktop weather application built with **Python**, **PyQt5**, and the **OpenWeatherMap API**, featuring real-time weather data, emoji-based weather visuals, error handling, and a clean responsive GUI.
 
-![Weather App Preview](./images/london-weather.png)
+![Weather App Preview](weather-app/images/london-weather.png)
 
 ---
 
@@ -198,7 +198,7 @@ QPushButton#get_weather_btn{
 
 **7 May 2026 — 22:15 (London Time)**
 
-![London Weather](./images/london-weather.png)
+![London Weather](weather-app/images/london-weather.png)
 
 ---
 
@@ -206,7 +206,7 @@ QPushButton#get_weather_btn{
 
 **7 May 2026 — 22:15 (London Time)**
 
-![Sylhet Weather](./images/sylhet-weather.png)
+![Sylhet Weather](weather-app/images/sylhet-weather.png)
 
 ---
 
